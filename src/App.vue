@@ -57,7 +57,7 @@ const deleteGrocery = id => {
     }
 
     h3{
-      @apply m-2 text-2xl font-light tracking-wide font-sans text-accent2;
+      @apply m-2 text-4xl font-light tracking-wide font-sans text-comment ;
     }
 
     form {
