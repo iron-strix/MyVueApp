@@ -18,7 +18,8 @@ module.exports = {
         },
 
         backgroundImage: {
-            'cats': "url('./src/img/cats.png')",
+            'cats': "url('@/img/cats.png')",
+            //url(${require('@/img/cats.png')})
         },
 
         extend: {},

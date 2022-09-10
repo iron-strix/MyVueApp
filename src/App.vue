@@ -23,7 +23,6 @@ const deleteGrocery = id => {
 </script>
 
 <template>
-
   <div class="behind">
     <main>
       <div class="top">
@@ -51,7 +50,7 @@ const deleteGrocery = id => {
 
 <style lang="postcss" scoped>
   .behind{
-    @apply ml-auto mr-auto bg-top w-5/6 min-h-screen bg-cats bg-repeat ;
+    @apply ml-auto mr-auto bg-top w-5/6 min-h-screen bg-cats bg-repeat;
   }
 
   .top{
